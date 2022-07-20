@@ -1,5 +1,10 @@
-# PHP learning
-Learning about PHP with Github
+# PHP Training
+Training beginners for both Git, PHP & MySQL
 
+## Week One
 ## Introduction
-Start with the environment setup, variables and syntax.
+We'll start with environment setup, outputs for various php data types, variables and syntax.
+Learn and practice on variables, syntax.
+
+## Week Two
+### Continued on Variables, Arrays.
