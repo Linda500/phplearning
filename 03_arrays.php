@@ -2,9 +2,5 @@
 /* ----------- Arrrays ----------- */
 
 /*
-  Arrays hold multiple values. Each value in an array is called an "element"
+  If you need to store multiple values, you can use arrays. Arrays hold "elements"
 */
-// single line comments
-// echo -output strings,numbers,html, etc
-
-
