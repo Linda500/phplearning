@@ -42,7 +42,7 @@ echo $result;
 
 // Returning values
 
-
+echo 'All functions testing 123 fgtehbd';
 // Adding default values
 echo '<br/>';
 function modulus($b =10, $c = 3){
