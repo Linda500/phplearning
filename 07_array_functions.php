@@ -148,6 +148,7 @@ $sum =array_reduce($numbers, fn($carry, $number) => $carry + $number);
 
 print_r($sum);
 
+//  
 
 
 
