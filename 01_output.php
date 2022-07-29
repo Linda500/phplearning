@@ -35,23 +35,24 @@ echo 'What\'s up';
 /* 
 This is a multiple line comments
 */
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PhP inside html</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PhP inside html</title>
 
 </head>
+
 <body>
-  <p><?php echo 'This is php inside HTML5'; ?></p>
+    <p><?php echo 'This is php inside HTML5'; ?></p>
 
 
-  <br>
-<?php 
+    <br>
+    <?php 
 
 
 echo 5+8;
@@ -60,4 +61,5 @@ echo 5+8;
 
 ?>
 </body>
+
 </html>
